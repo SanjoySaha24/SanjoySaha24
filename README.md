@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sanjoysaha0524@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zKi_eOtyHqNhzLZvMNuhPML_gOICaSDC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zECKnLBGK7p-8VG8ky56CK_o1Ep669y8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

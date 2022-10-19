@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjoy Saha</h1>
-<h3>I'm currently pursuing B.tech in Computer Science & Engineering from<a href="http://nsec.ac.in"> Netaji Subhash Engineering College </a>.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
+<h3>Currently pursuing B.tech in Computer Science & Engineering from<a href="http://nsec.ac.in"> Netaji Subhash Engineering College </a>.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjoysaha24&label=Profile%20views&color=0e75b6&style=flat" alt="sanjoysaha24" /> </p>

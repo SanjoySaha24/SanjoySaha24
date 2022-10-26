@@ -48,7 +48,7 @@
 [![@sanjoysaha24's Holopin board](https://holopin.me/sanjoysaha24)](https://holopin.io/@sanjoysaha24)
 
 ## 💻 My workspace
-  [![](https://img.shields.io/badge/lenevo%20laptop-000000?style=for-the-badge&logo=lenevo&logoColor=white)](https://www.lenevo.com/in/)
+  [![](https://img.shields.io/badge/lenovo%20laptop-000000?style=for-the-badge&logo=lenovo&logoColor=white)](https://www.lenovo.com/in/)
   [![](https://img.shields.io/badge/windows_10-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows10)
 [![](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)]()
 

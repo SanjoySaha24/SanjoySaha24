@@ -39,6 +39,13 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" alt="git" width="50" height="50"/>
 
+<p align="left">
+<h3 align="left">Coding Profiles :~ </h3>
+<a href="https://www.hackerrank.com/sanjoysaha0524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjoysaha0524" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/sanjoy_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjoy_saha" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/sanjoy24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanjoy24" height="40" width="40" /></a>
+</p>
+
 -**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjoysaha24&show_icons=true&theme=gotham" alt="sanjoysaha24" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjoysaha24&langs_count=10&show_icons=true&theme=gotham" alt="sanjoysaha24" /> 

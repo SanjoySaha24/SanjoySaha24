@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sanjoysaha0524@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j-NAKTfLYMfy-pfMvdHICSr5Nb66ndGK/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13gYtWvDHYAfdupSLv11LvVrky1x2wdBp/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

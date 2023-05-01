@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanjoy Saha</h1>
 <h3>Currently pursuing B.tech in Computer Science & Engineering from<a href="http://nsec.ac.in"> Netaji Subhash Engineering College </a>.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 
+<img align="middle" width="30"> <img src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjoysaha24&label=Profile%20views&color=0e75b6&style=flat" alt="sanjoysaha24" /> </p>
 
-- **<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"> <h3>My Profile Trophies :</h3>**   
+<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"><h3>My Profile Trophies :</h3>   
  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sanjoysaha24&theme=juicyfresh&row=2&column=3" alt=sanjoysaha24 />
 
 

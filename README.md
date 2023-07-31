@@ -2,13 +2,25 @@
 <!-- <h1 align="center">Hi !</h1>[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1>I'm a Data & Engineering Consultant</h1> -->
 <!-- Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Sanjoy Saha
 ===================================== -->
-<h1 align="center">Hi 👋, I'm <a href="http://sanjoysaha.netlify.app"> Sanjoy Saha </a>.</h1>
+<h1 align="center">Hi 👋, I'm <a href="http://sanjoysaha.netlify.app"> Sanjoy Saha </a></h1>
 <h3 align="center">β-MLSA | C++ | Frontend Developer </h3>
 <h3>Currently pursuing B.tech in Computer Science & Engineering from<a href="http://nsec.ac.in"> Netaji Subhash Engineering College </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 
+<img align='right' src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif" alt='' height='300' width='400' />
+
+<!-- <p> I am a software engineer pursuing a bachelor's in computer science and engineering. I am passionate about solving practical business problems and always eager to take up new development challenges. I love to work with the latest technologies and build scalable products. </p> -->
+
+- <img src="https://media4.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" alt="" height="25" width="21" /> I’m currently working on **<code>Problem Solving</code> <code>Web Development</code>**
+- <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" /> I'm interested about **<code>web3</code>&nbsp;<code>Blockchain</code>**
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Open-Source Projects</code>**
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:sanjoysaha0524@gmail.com)** | **[Linkedin](https://linkedin.com/in/sanjoy-saha-a649921b3/)**</code>
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](sanjoysaha.netlify.app)</code>**
+
+
+<!--
 <div id="header" align="center">
 <img align="center" width="30"> <img src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif"/>
-</div> 
+</div> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjoysaha24&label=Profile%20views&color=0e75b6&style=flat" alt="sanjoysaha24" /> </p>
 

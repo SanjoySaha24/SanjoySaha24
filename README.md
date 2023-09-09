@@ -16,8 +16,7 @@
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:sanjoysaha0524@gmail.com)** | **[Linkedin](https://linkedin.com/in/sanjoy-saha-a649921b3/)**</code>
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](sanjoysaha.netlify.app)</code>**
 <br/>
-<br/>
-<br/>
+
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Right-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Left-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /> Connect with me :
 

@@ -20,22 +20,18 @@
 <!--
 <div id="header" align="center">
 <img align="center" width="30"> <img src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif"/>
-</div> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjoysaha24&label=Profile%20views&color=0e75b6&style=flat" alt="sanjoysaha24" /> </p>
-
-<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"><h3>My Profile Trophies :</h3>   
- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sanjoysaha24&theme=juicyfresh&row=2&column=3" alt=sanjoysaha24 />
-
+</div>
 
 - 🌱 I’m currently learning **Frontend Development.**
 
 - 📫 How to reach me **sanjoysaha0524@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13gYtWvDHYAfdupSLv11LvVrky1x2wdBp/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13gYtWvDHYAfdupSLv11LvVrky1x2wdBp/view) 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">-->
+ ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Right-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Left-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /> Connect with me:
+
 <a href="https://www.linkedin.com/in/sanjoy-saha-a649921b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjoy-saha" height="30" width="40" /></a>
 <a href="https://twitter.com/imsanjoysaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsanjoysaha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15249318/sanjoy-saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16161438" height="30" width="40" /></a>
@@ -71,6 +67,11 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjoysaha24&show_icons=true&theme=gotham" alt="sanjoysaha24" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjoysaha24&langs_count=10&show_icons=true&theme=gotham" alt="sanjoysaha24" /> 
 <p align="right"> <img src="https://streak-stats.demolab.com?user=sanjoysaha24&theme=gotham" alt="sanjoysaha24" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjoysaha24&label=Profile%20views&color=0e75b6&style=flat" alt="sanjoysaha24" /> </p>
+
+<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"><h3>My Profile Trophies :</h3>   
+ <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sanjoysaha24&theme=juicyfresh&row=2&column=3" alt=sanjoysaha24 />
 
 ## HacktoberFest 2022 Badges(●'◡'●)
 [![@sanjoysaha24's Holopin board](https://holopin.me/sanjoysaha24)](https://holopin.io/@sanjoysaha24)

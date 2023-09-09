@@ -15,21 +15,9 @@
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Open-Source Projects</code>**
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:sanjoysaha0524@gmail.com)** | **[Linkedin](https://linkedin.com/in/sanjoy-saha-a649921b3/)**</code>
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](sanjoysaha.netlify.app)</code>**
-<!--
-<div id="header" align="center">
-<img align="center" width="30"> <img src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif"/>
-</div>
-
-- 🌱 I’m currently learning **Frontend Development.**
-
-- 📫 How to reach me **sanjoysaha0524@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13gYtWvDHYAfdupSLv11LvVrky1x2wdBp/view) 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">-->
-
-
+<br/>
+<br/>
+<br/>
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Right-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Left-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /> Connect with me :
 
@@ -66,46 +54,21 @@
 
 <img align='right' src="https://media2.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width='200' height='290'></img>
 <!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradipto-m&count_private=true&show_icons=true&theme=gotham&border_radius=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradipto-m&theme=gotham&border_radius=8)
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradipto-m&theme=tokyonight" alt="Pradipto" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipto-m&layout=compact&theme=gotham" alt="Pradipto" /> -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjoysaha24&count_private=true&show_icons=true&theme=gotham&border_radius=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjoysaha24&theme=gotham&border_radius=8)
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjoysaha24&theme=tokyonight" alt="sanjoysaha24" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjoysaha24&layout=compact&theme=gotham" alt="sanjoysaha24" /> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjoysaha24&layout=compact&theme=gotham" alt="sanjoysaha24" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjoysaha24&langs_count=10&show_icons=true&theme=gotham" alt="sanjoysaha24" /> 
 <p align="right"> <img src="https://streak-stats.demolab.com?user=sanjoysaha24&theme=gotham" alt="sanjoysaha24" /></p>
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjoysaha24&theme=tokyonight" alt="Pradipto" />
 
-<br/>
-<br/>
-
-<img align='right' src="https://media2.giphy.com/media/7DPisN3JAKJhEyDHIW/giphy.gif" width="200" height="200"></img>
-<br/>
-
-<!-- ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks for visiting my profile <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20Exclamation.png" alt='' width='38' height='38' />
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt='' width='35' height='35' /> Some Repos &nbsp; <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' /> -->
-
-<!--
-<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
-
--**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:**
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjoysaha24&show_icons=true&theme=gotham" alt="sanjoysaha24" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjoysaha24&langs_count=10&show_icons=true&theme=gotham" alt="sanjoysaha24" /> 
-<p align="right"> <img src="https://streak-stats.demolab.com?user=sanjoysaha24&theme=gotham" alt="sanjoysaha24" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjoysaha24&label=Profile%20views&color=0e75b6&style=flat" alt="sanjoysaha24" /> </p>
-
-<img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"><h3>My Profile Trophies :</h3>   
- <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sanjoysaha24&theme=juicyfresh&row=2&column=3" alt=sanjoysaha24 />
-
- -->
-
-## HacktoberFest 2022 Badges(●'◡'●)
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt='' width='40' height='40' /> HacktoberFest 2022 Badges :
 [![@sanjoysaha24's Holopin board](https://holopin.me/sanjoysaha24)](https://holopin.io/@sanjoysaha24)
 
-## 💻 My workspace
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Scientist%20Light%20Skin%20Tone.png" alt='' width='40' height='40' /> My workspace :
   [![](https://img.shields.io/badge/lenovo%20laptop-000000?style=for-the-badge&logo=lenovo&logoColor=white)](https://www.lenovo.com/in/)
   [![](https://img.shields.io/badge/windows_10-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows10)
 [![](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)]()
 
-
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>

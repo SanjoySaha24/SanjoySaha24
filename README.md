@@ -62,6 +62,32 @@
 <a href="https://www.codechef.com/users/sanjoy24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanjoy24" height="40" width="40" /></a>
 </p>
 
+## <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" height="40" width="40" >  Github Stats <img src="https://media4.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" alt='' height="40" width="40" />
+
+<img align='right' src="https://media2.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width='200' height='290'></img>
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradipto-m&count_private=true&show_icons=true&theme=gotham&border_radius=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradipto-m&theme=gotham&border_radius=8)
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradipto-m&theme=tokyonight" alt="Pradipto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipto-m&layout=compact&theme=gotham" alt="Pradipto" /> -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjoysaha24&layout=compact&theme=gotham" alt="sanjoysaha24" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjoysaha24&langs_count=10&show_icons=true&theme=gotham" alt="sanjoysaha24" /> 
+<p align="right"> <img src="https://streak-stats.demolab.com?user=sanjoysaha24&theme=gotham" alt="sanjoysaha24" /></p>
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjoysaha24&theme=tokyonight" alt="Pradipto" />
+
+<br/>
+<br/>
+
+<img align='right' src="https://media2.giphy.com/media/7DPisN3JAKJhEyDHIW/giphy.gif" width="200" height="200"></img>
+<br/>
+
+<!-- ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks for visiting my profile <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20Exclamation.png" alt='' width='38' height='38' />
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt='' width='35' height='35' /> Some Repos &nbsp; <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' /> -->
+
+<!--
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
+
 -**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjoysaha24&show_icons=true&theme=gotham" alt="sanjoysaha24" /></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sanjoysaha24&langs_count=10&show_icons=true&theme=gotham" alt="sanjoysaha24" /> 
@@ -71,6 +97,8 @@
 
 <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width="25"><h3>My Profile Trophies :</h3>   
  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sanjoysaha24&theme=juicyfresh&row=2&column=3" alt=sanjoysaha24 />
+
+ -->
 
 ## HacktoberFest 2022 Badges(●'◡'●)
 [![@sanjoysaha24's Holopin board](https://holopin.me/sanjoysaha24)](https://holopin.io/@sanjoysaha24)

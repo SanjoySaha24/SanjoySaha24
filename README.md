@@ -3,7 +3,7 @@
 <!-- Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Sanjoy Saha
 ===================================== -->
 <h1 align="center">Hi 👋, I'm <a href="http://sanjoysaha.netlify.app"> Sanjoy Saha </a></h1>
-<h3 align="center">β-MLSA | C++ | Frontend Developer </h3>
+<h3 align="center">β-MLSA | JavaScript | Frontend Developer(ReactJs) </h3>
 <h3>Currently pursuing B.tech in Computer Science & Engineering from<a href="http://nsec.ac.in"> Netaji Subhash Engineering College </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 
 <img align='right' src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif" alt='' height='300' width='400' />

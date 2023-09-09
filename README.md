@@ -15,8 +15,6 @@
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Open-Source Projects</code>**
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:sanjoysaha0524@gmail.com)** | **[Linkedin](https://linkedin.com/in/sanjoy-saha-a649921b3/)**</code>
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](sanjoysaha.netlify.app)</code>**
-
-
 <!--
 <div id="header" align="center">
 <img align="center" width="30"> <img src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif"/>
@@ -30,7 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">-->
- ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Right-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Left-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /> Connect with me:
+
+
+
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Right-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Left-Facing%20Fist%20Medium-Light%20Skin%20Tone.png" alt='' width='30' height='30' /> Connect with me :
 
 <a href="https://www.linkedin.com/in/sanjoy-saha-a649921b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjoy-saha" height="30" width="40" /></a>
 <a href="https://twitter.com/imsanjoysaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsanjoysaha" height="30" width="40" /></a>
@@ -38,10 +39,9 @@
 <a href="https://www.facebook.com/sanjoy.saha.104203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sanjoy Saha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/imsanjoysaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsanjoysaha" height="30" width="40" /></a>
 
-
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## <img src="https://media1.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" alt='' height="40" width="70" /> My Tech Tools :
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -55,12 +55,11 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" alt="git" width="50" height="50"/>
 
-<p align="left">
-<h3 align="left">Coding Profiles :~ </h3>
+
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt='' width='40' height='40' /> Coding Profiles :
 <a href="https://www.hackerrank.com/sanjoysaha0524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanjoysaha0524" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/sanjoy_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjoy_saha" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/sanjoy24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanjoy24" height="40" width="40" /></a>
-<a href="https://sanjoysblog.hashnode.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" height="40" width="40"/></a>
 </p>
 
 -**<img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif" width="50"> My GitHub Data:**

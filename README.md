@@ -2,9 +2,9 @@
 <!-- <h1 align="center">Hi !</h1>[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1>I'm a Data & Engineering Consultant</h1> -->
 <!-- Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Sanjoy Saha
 ===================================== -->
-<h1 align="center">Hi 👋, I'm <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/c529ec7e-a76a-4eef-9b21-cf6fa24d3872"> Sanjoy Saha </a></h1>
-<h3 align="center">β-MLSA | JavaScript | Frontend Developer(ReactJs) </h3>
-<h3>Pursuing B.tech in Computer Science & Engineering at<a href="http://nsec.ac.in"> Netaji Subhash Engineering College </a>    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
+<h1 align="center">Hi 👋, I'm <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/c529ec7e-a76a-4eef-9b21-cf6fa24d3872">Sanjoy Saha</a></h1>
+<h3 align="center">β-MLSA | JavaScript | Frontend Developer(ReactJs)</h3>
+<h3>Pursuing B.tech in Computer Science & Engineering at<a href="http://nsec.ac.in"> Netaji Subhash Engineering College</a></h3>    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 <img align='right' src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif" alt='' height='300' width='400' />
 

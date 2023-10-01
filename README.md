@@ -65,8 +65,8 @@
 <p align="right"> <img src="https://streak-stats.demolab.com?user=sanjoysaha24&theme=gotham" alt="sanjoysaha24" /></p>
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt='' width='40' height='40' /> HacktoberFest 2022 Badges :
-[![@sanjoysaha24's Holopin board](https://holopin.me/sanjoysaha24)](https://holopin.io/@sanjoysaha24)
 
+[![An image of @sanjoysaha24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanjoysaha24)](https://holopin.io/@sanjoysaha24)
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/People%20with%20professions/Scientist%20Light%20Skin%20Tone.png" alt='' width='40' height='40' /> My workspace :
   [![](https://img.shields.io/badge/lenovo%20laptop-000000?style=for-the-badge&logo=lenovo&logoColor=white)](https://www.lenovo.com/in/)
   [![](https://img.shields.io/badge/windows_10-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows10)

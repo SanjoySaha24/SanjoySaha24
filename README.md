@@ -4,7 +4,7 @@
 ===================================== -->
 <h1 align="center">Hi 👋, I'm <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/c529ec7e-a76a-4eef-9b21-cf6fa24d3872">Sanjoy Saha</a></h1>
 <h3 align="center">SIH'23 Winner | β-MLSA | JavaScript | Frontend Developer(ReactJs)</h3>
-<h3>Pursuing B.tech in Computer Science & Engineering at<a href="http://nsec.ac.in"> Netaji Subhash Engineering College</a>    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
+<h3>Pursuing B.tech in Computer Science & Engineering at Netaji Subhash Engineering College    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 
 <img align='right' src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif" alt='' height='300' width='400' />
 

@@ -14,7 +14,7 @@
 <code>Problem-solving</code>**
 - <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" />"I am interested in <!--**<code>Blockchain technology</code> and-->**<code>Web3</code>**
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Open-Source Projects</code>**
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:sanjoysaha0524@gmail.com)** | **[Linkedin](https://linkedin.com/in/sanjoy-saha-a649921b3/)**</code>
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:sanjoysaha0524@gmail.com)** | **[Linkedin](https://linkedin.com/in/sanjoysaha24/)**</code>
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Discover My Expertise **<code>[Resume](https://drive.google.com/file/d/12VThUA576j9FvPaLAbD8Ls0CQVj4FHuw/view?usp=sharing)</code>**
  
 ![Lines of code](https://img.shields.io/badge/Written-1M%20lines%20of%20code-blue)       

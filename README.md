@@ -2,9 +2,10 @@
 <!-- <h1 align="center">Hi !</h1>[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<h1>I'm a Data & Engineering Consultant</h1> -->
 <!-- Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Sanjoy Saha
 ===================================== -->
-<h1 align="center">Hi 👋, I'm <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/c529ec7e-a76a-4eef-9b21-cf6fa24d3872">Sanjoy Saha</a></h1>
+<h1 align="center">Hi 👋, I'm Sanjoy Saha</h1>
+<!-- <h1 align="center">Hi 👋, I'm <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/c529ec7e-a76a-4eef-9b21-cf6fa24d3872">Sanjoy Saha</a></h1> -->
 <h3 align="center">SIH'23 Winner | β-MLSA | JavaScript | Frontend Developer(ReactJs)</h3>
-<h3>Pursuing B.tech in Computer Science & Engineering at Netaji Subhash Engineering College    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
+<h3>B.tech in Computer Science & Engineering Graduate, Netaji Subhash Engineering College   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
 
 <img align='right' src="https://media.tenor.com/8lw8JYOc3XEAAAAd/batgirl-batman.gif" alt='' height='300' width='400' />
 
@@ -15,7 +16,7 @@
 - <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" />"I am interested in <!--**<code>Blockchain technology</code> and-->**<code>Web3</code>**
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Open-Source Projects</code>**
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:sanjoysaha0524@gmail.com)** | **[Linkedin](https://linkedin.com/in/sanjoysaha24/)**</code>
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Discover My Expertise **<code>[Resume](https://drive.google.com/file/d/12VThUA576j9FvPaLAbD8Ls0CQVj4FHuw/view?usp=sharing)</code>**
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Discover My Expertise **<code>[Resume](https://drive.google.com/file/d/1pLUL86SwRTyKu50HLGGyCbk6wsZNgtnA/view?usp=sharing)</code>**
  
 ![Lines of code](https://img.shields.io/badge/Written-1M%20lines%20of%20code-blue)       
 ![Profile views](https://komarev.com/ghpvc/?username=sanjoysaha24&label=Profile%20views&color=0e75b6&style=flat) <br/>
